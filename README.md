@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Hosting a Web Page with Apache on a Linux Server**
 
 ## **Overview**
@@ -24,3 +25,6 @@ This project demonstrates how to provision a cloud server, install the Apache we
 2. Connect to your server using the `.pem` file:
    ```bash
    ssh -i "exam_key.pem" ubuntu@ec2-13-48-190-58.eu-north-1.compute.amazonaws.com
+=======
+# Alt-Exam
+>>>>>>> 15ae27d839b5754319295e9dc7af0eaf13d78fe6
