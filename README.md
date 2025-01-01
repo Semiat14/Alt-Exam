@@ -27,11 +27,21 @@ This project demonstrates how to provision a cloud server, install the Apache we
    ssh -i "exam_key.pem" ubuntu@ec2-13-48-190-58.eu-north-1.compute.amazonaws.com 
  
    public ip address : http://13.48.190.58/ 
-   public ip address ; 13.48.190.58 
-=======
+   public ip address ; 13.48.190.58  
+
+  
+======= 
+step 3 Install apache2 
+
+   Step 4 Deploy your html file 
+
+   step 5 upload a github repo 
+
+   step 6 deploy the file to the  server 
 # Alt-Exam
 >>>>>>> 15ae27d839b5754319295e9dc7af0eaf13d78fe6
  
+
  ## Additional Information
 This section contains the new details about the project.
 
