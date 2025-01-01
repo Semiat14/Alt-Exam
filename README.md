@@ -24,7 +24,16 @@ This project demonstrates how to provision a cloud server, install the Apache we
 1. Open your terminal or SSH client (e.g., vscode).
 2. Connect to your server using the `.pem` file:
    ```bash
-   ssh -i "exam_key.pem" ubuntu@ec2-13-48-190-58.eu-north-1.compute.amazonaws.com
+   ssh -i "exam_key.pem" ubuntu@ec2-13-48-190-58.eu-north-1.compute.amazonaws.com 
+ 
+   public ip address : http://13.48.190.58/ 
+   public ip address ; 13.48.190.58 
 =======
 # Alt-Exam
 >>>>>>> 15ae27d839b5754319295e9dc7af0eaf13d78fe6
+ 
+ ## Additional Information
+This section contains the new details about the project.
+
+![screenshot of the web page ](Assets.jpg)
+  public ip address ; 13.48.190.58 
